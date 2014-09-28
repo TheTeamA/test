@@ -5,3 +5,5 @@ today is a good day.
 I have a dream.
 
 bugfix.
+
+tomorrow is a good day.
